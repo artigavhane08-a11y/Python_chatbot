@@ -8,5 +8,5 @@ watch here
 
 features
      - Responds to user input.
-     - Exit command
+     - Exit command.
      - Rule based Logic.
